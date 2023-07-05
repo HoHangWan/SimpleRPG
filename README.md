@@ -1,4 +1,4 @@
 # SimpleRPG
-Self-made simple game
-Version1
+Self-made simple game <br>
+Version1<br>
 Simple Player, Dungeon, Enemy, Battle with nothing else
